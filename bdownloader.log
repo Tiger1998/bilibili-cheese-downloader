@@ -1,0 +1,70 @@
+2026-10-28 18:26:14,261 - BDownloader - INFO - FFmpeg 已正确安装
+2026-10-28 18:26:14,263 - BDownloader - INFO - 已创建默认配置文件: config.ini
+2026-10-28 18:26:18,972 - BDownloader - INFO - 正在检测系统是否支持NVIDIA GPU加速...
+2026-10-28 18:26:19,047 - BDownloader - INFO - - NVENC编码器检测: 可用
+2026-10-28 18:26:19,109 - BDownloader - INFO - - CUDA硬件加速检测: 可用
+2026-10-28 18:26:19,111 - BDownloader - INFO - - NVIDIA GPU检测: 不可用
+2026-10-28 18:26:19,111 - BDownloader - INFO - 检测到NVIDIA GPU加速支持
+2026-10-28 18:27:38,004 - BDownloader - WARNING - detect_best_streams 失败(100010 is not a valid AudioQuality)，回退手动选流
+2026-10-28 18:27:38,005 - BDownloader - ERROR - 处理视频 2 时出错: 'baseUrl'
+2026-10-28 18:27:38,057 - BDownloader - WARNING - detect_best_streams 失败(100010 is not a valid AudioQuality)，回退手动选流
+2026-10-28 18:27:38,057 - BDownloader - ERROR - 处理视频 1 时出错: 'baseUrl'
+2026-10-28 18:27:38,099 - BDownloader - WARNING - detect_best_streams 失败(100010 is not a valid AudioQuality)，回退手动选流
+2026-10-28 18:27:38,100 - BDownloader - ERROR - 处理视频 3 时出错: 'baseUrl'
+2026-10-28 18:27:38,174 - BDownloader - ERROR - 处理视频 5 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,233 - BDownloader - WARNING - detect_best_streams 失败(100010 is not a valid AudioQuality)，回退手动选流
+2026-10-28 18:27:38,233 - BDownloader - ERROR - 处理视频 4 时出错: 'baseUrl'
+2026-10-28 18:27:38,251 - BDownloader - ERROR - 处理视频 6 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,313 - BDownloader - ERROR - 处理视频 7 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,330 - BDownloader - ERROR - 处理视频 8 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,390 - BDownloader - ERROR - 处理视频 9 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,423 - BDownloader - ERROR - 处理视频 10 时出错: list index out of range
+2026-10-28 18:27:38,469 - BDownloader - ERROR - 处理视频 11 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,500 - BDownloader - ERROR - 处理视频 12 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,546 - BDownloader - ERROR - 处理视频 13 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,604 - BDownloader - ERROR - 处理视频 14 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,624 - BDownloader - ERROR - 处理视频 15 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,708 - BDownloader - ERROR - 处理视频 17 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,722 - BDownloader - ERROR - 处理视频 16 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,784 - BDownloader - ERROR - 处理视频 18 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,805 - BDownloader - ERROR - 处理视频 19 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,860 - BDownloader - ERROR - 处理视频 20 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,879 - BDownloader - ERROR - 处理视频 21 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,937 - BDownloader - ERROR - 处理视频 22 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:38,959 - BDownloader - ERROR - 处理视频 23 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:39,014 - BDownloader - ERROR - 处理视频 24 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:39,040 - BDownloader - ERROR - 处理视频 25 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:39,100 - BDownloader - ERROR - 处理视频 26 时出错: 接口返回错误代码：-403，信息：访问权限不足。
+{'code': -403, 'message': '访问权限不足'}
+2026-10-28 18:27:39,269 - BDownloader - ERROR - 处理视频 27 时出错: 接口返回错误代码：-404，信息：啥都木有。
+{'code': -404, 'message': '啥都木有'}
+2026-10-28 18:27:39,284 - BDownloader - ERROR - 处理视频 28 时出错: 接口返回错误代码：-404，信息：啥都木有。
+{'code': -404, 'message': '啥都木有'}
+2026-10-28 18:27:39,486 - BDownloader - ERROR - 处理视频 29 时出错: 接口返回错误代码：-404，信息：啥都木有。
+{'code': -404, 'message': '啥都木有'}
+2026-10-28 18:27:39,495 - BDownloader - ERROR - 处理视频 30 时出错: 接口返回错误代码：-404，信息：啥都木有。
+{'code': -404, 'message': '啥都木有'}
+2026-10-28 18:27:39,670 - BDownloader - ERROR - 处理视频 32 时出错: 接口返回错误代码：-404，信息：啥都木有。
+{'code': -404, 'message': '啥都木有'}
+2026-10-28 18:27:39,704 - BDownloader - ERROR - 处理视频 31 时出错: 接口返回错误代码：-404，信息：啥都木有。
+{'code': -404, 'message': '啥都木有'}
